@@ -1,2 +1,1 @@
-# apistar
-sentiment analysis api
+# API Star ✨🚀✨🌟
