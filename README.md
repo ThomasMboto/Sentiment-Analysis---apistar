@@ -9,7 +9,7 @@ A smart Web API framework, designed for Python 3.
 
 **Community:** https://discuss.apistar.org/ 🤔 💭 🤓 💬 😎
 
-![screenshot](docs/img/apistar.gif)
+![screenshot](apistar-sentimentAnalysis/docs/img/apistar.gif)
 
 ---
 
